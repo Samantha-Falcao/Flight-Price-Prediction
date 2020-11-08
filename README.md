@@ -18,7 +18,7 @@ Your objective is to predict the flight prices using that data
 |---|---|
 |Airline|The name of the airline|
 |Date_of_Journey|Date on which the journey commenced in dd/mm/yyyy format|
-|source|The source from which journey begns|
+|source|The source from which service or journey begins|
 |Destination|The destination where the service ends|
 |Route|The route taken by the flight to reach the destination|
 |Dep_Time|The time when the journey starts from the source|
