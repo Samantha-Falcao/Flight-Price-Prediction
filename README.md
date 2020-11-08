@@ -28,5 +28,5 @@ Your objective is to predict the flight prices using that data
 |Additional_Info|Additional information about the flight|
 |Price|Target, The price of the ticket|
 
-Size of training data set: 8012 records, 11 features
+Size of training data set: 8012 records, 11 features </br>
 Size of testing data set: 2671 records, 10 features
